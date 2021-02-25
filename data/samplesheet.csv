@@ -1,2 +1,2 @@
-ID,fastq_1,fastq_2
-TEST,https://raw.githubusercontent.com/MaxUlysse/rnatoy/master/data/ggal/ggal_gut_1.fq,https://raw.githubusercontent.com/MaxUlysse/rnatoy/master/data/ggal/ggal_gut_2.fq
+sample,fastq_1,fastq_2
+TEST,https://raw.githubusercontent.com/MaxUlysse/rnatoy/master/data/ggal/ggal_gut_1.fq.gz,https://raw.githubusercontent.com/MaxUlysse/rnatoy/master/data/ggal/ggal_gut_2.fq.gz
